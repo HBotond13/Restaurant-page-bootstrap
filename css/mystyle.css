@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Segoe Print';
+}
+
+h2 {
+    font-family: 'Segoe Print';
+}
+
+h3 {
+    font-family: 'Segoe Print';
+}
+
+.card-body {
+    text-align: center;
+}
+
+.navbar-brand {
+    font-family: 'Segoe Print';
+}
+
+.scroll-container {
+    max-width: 700px;
+    margin: 40px auto;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 10px;
+    border-radius: 10px;
+    scroll-behavior: smooth;
+}
+
+.scroll-container img {
+    height: 300px;
+    width: auto;
+    margin-right: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
